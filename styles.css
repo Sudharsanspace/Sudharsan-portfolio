@@ -2,7 +2,7 @@ body{
     font-family: 'Salsa', cursive;
 }
 .banner {
-    background-image: url(../img/background.jpg) ;
+    background-image: url(../Portofolio/img/background.jpg) ;
     background-size: cover;
     background-repeat: no-repeat;
     padding: 150px 0;
